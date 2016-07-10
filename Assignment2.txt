@@ -1,0 +1,9 @@
+Session7 assignment2
+1. b. pig scripts
+2. a. Mapreduce
+3. a.exec
+4. c. LOAD
+5. a. pig -x local
+6. a.local
+7. a. Pig can invoke code in language like Java Only.
+8. b.procedural
